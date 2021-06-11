@@ -1,5 +1,9 @@
 ### Hi! 👋
-I'm Paulo, software developer, and IT engineer.
+I'm Paulo, versatile software developer and IT engineer.
+
+Althouth I love to learn new technologies, my go-to technologies for front-end development are HTML, CSS and pure vanilla JavaScript, while for back-end I'm more confortable working with Node.js. For the development of desktop applications, my favourite programming language is Python.
+
+The majority of my time is spent researching, prototyping and writting code.
 
 
 
