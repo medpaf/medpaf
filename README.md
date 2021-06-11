@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm Paulo, software developer.
+I'm Paulo, software developer, and IT engineer.
 
 
 
