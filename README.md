@@ -5,7 +5,7 @@ Althouth I love to learn new technologies, my go-to technologies for front-end d
 
 The majority of my time is spent researching, prototyping and writting code.
 
-For more information, visit my [website](https://medpaf.github.io/) or check my [resume](https://medpaf.github.io/docs/cv-en-medpaf.pdf).
+For more information, visit my [website](https://medpaf.github.io/) or check my resume in [English](https://medpaf.github.io/docs/cv-en-medpaf.pdf) or [Portuguese](https://medpaf.github.io/docs/cv-pt-medpaf.pdf).
 
 
 
