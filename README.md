@@ -1,5 +1,3 @@
-![mdpf](https://github.com/medpaf/medpaf/blob/main/mdpf2(1).gif)
-
 ### Hi!
 I'm Paulo, software developer and IT engineer.
 
