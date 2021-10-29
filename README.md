@@ -1,4 +1,4 @@
-![mdpf](https://user-images.githubusercontent.com/61552222/139452692-0c6148e3-7b6c-40a7-bdc2-5cb617568f1a.gif)
+![mdpf](https://github.com/medpaf/medpaf/blob/main/mdpf2(1).gif)
 
 ### Hi!
 I'm Paulo, software developer and IT engineer.
